@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://flameboy.xyz/'
 languageCode = 'en-us'
 title = 'My Hugo Blog'
 theme = 'PaperMod'
@@ -17,14 +17,14 @@ env = "production"
 title = "My Hugo Blog"
 description = "A modern blog built with Hugo and PaperMod theme"
 keywords = ["blog", "hugo", "papermod"]
-author = "Your Name"
+author = "Sasidhar"
 images = [""]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
@@ -63,19 +63,19 @@ buttons = []
 
 [params.homeInfoParams]
 Title = "Hi there 👋"
-Content = "Welcome to my blog built with Hugo and PaperMod theme"
-
-[[params.socialIcons]]
-name = "x"
-url = "https://x.com/"
-
-[[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
+Content = "Code, thoughts, and keto - welcome to my digital space"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/"
+url = "https://github.com/janaki-sasidhar"
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/nwjstsasi"
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/iamabigbadwolf"
 
 [params.cover]
 hidden = true
@@ -110,9 +110,9 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "about"
+name = "about"
+url = "/about/"
 weight = 30
 
 [markup]
