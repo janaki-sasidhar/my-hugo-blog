@@ -1,9 +1,9 @@
 +++
 date = '2025-08-27T10:00:00+05:30'
 draft = false
-title = 'Indian-Style Okra Fry (Keto-Friendly Bhindi Sabzi)'
+title = 'Indian-Style Okra Fry (Keto-Friendly)'
 summary = 'Crispy, spiced okra fry with garlic and aromatic Indian spices - a delicious low-carb side dish perfect for keto meals'
-tags = ['keto', 'recipe', 'okra', 'indian', 'low-carb', 'vegetarian', 'side-dish', 'bhindi', 'stir-fry', 'gluten-free']
+tags = ['keto', 'recipe', 'okra', 'indian', 'low-carb', 'vegetarian', 'side-dish', 'stir-fry', 'gluten-free']
 categories = ['recipes', 'keto']
 +++
 
@@ -24,7 +24,7 @@ categories = ['recipes', 'keto']
 
 ## Ingredients
 
-- 250g fresh okra (bhindi), washed and chopped into rounds
+- 250g fresh okra, washed and chopped into rounds
 - 1 tbsp butter
 - 1 tbsp coconut oil
 - 4-5 garlic cloves, minced (about 4-5g net carbs total)
