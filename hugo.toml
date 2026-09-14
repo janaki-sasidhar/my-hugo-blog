@@ -1,6 +1,6 @@
 baseURL = 'https://flameboy.xyz/'
 languageCode = 'en-us'
-title = 'My Hugo Blog'
+title = 'Flameboy'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -14,7 +14,7 @@ minify = true
 
 [params]
 env = "production"
-title = "My Hugo Blog"
+title = "Flameboy"
 description = "A modern blog built with Hugo and PaperMod theme"
 keywords = ["blog", "hugo", "papermod"]
 author = "Sasidhar"

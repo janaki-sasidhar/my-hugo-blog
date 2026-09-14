@@ -11,7 +11,7 @@ Welcome to my corner of the internet!
 
 ## Who Am I?
 
-I'm a passionate senior software engineer, writer, and tech enthusiast who loves sharing knowledge and experiences through this blog. 
+I'm an engineering manager who still enjoys building things. This is where I share what I'm working on and what I'm learning along the way.
 
 ## What You'll Find Here
 
