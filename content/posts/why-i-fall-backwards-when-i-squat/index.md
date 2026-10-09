@@ -7,6 +7,8 @@ tags = ['squat', 'mobility', 'ankle', 'fitness', 'gym']
 categories = ['fitness']
 +++
 
+*Part one of my [Lower Body Mobility](/lower-body-mobility/) series. Part two covers the [hips]({{< relref "posts/hips-that-will-not-fold" >}}).*
+
 I have been squatting with a barbell plate under my heels for a while now. Without it I cannot even get into a bodyweight squat. Somewhere past halfway down, the front of my feet lifts, the part where the toes start, and I feel like I am about to fall over backwards.
 
 I finally sat down and worked out why. This post is my notes, written for me, with the videos I am using so I do not do the drills wrong.

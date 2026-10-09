@@ -110,6 +110,12 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
+identifier = "mobility"
+name = "mobility"
+url = "/lower-body-mobility/"
+weight = 25
+
+[[menu.main]]
 identifier = "about"
 name = "about"
 url = "/about/"
