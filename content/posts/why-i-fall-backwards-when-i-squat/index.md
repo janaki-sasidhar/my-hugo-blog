@@ -41,13 +41,24 @@ A second angle on the same test, from a physio:
 
 {{< youtube kbzYML05Vac >}}
 
-How to read it:
+How to read it. Standing flat, foot and shin sit at 90 degrees. Closing that angle is dorsiflexion, and the wall distance converts to degrees roughly like this:
 
-- **Under 4 inches**: ankle mobility is the limiter. Training will help.
-- **4 to 5 inches**: that is normal and enough for a decent squat. The problem is more likely technique or stance.
-- **A pinch at the front of the ankle** instead of a stretch in the calf: that points at the joint itself rather than tight muscle. Mobility work helps less here, and a heel lift is simply the long-term setup.
+| Toe-to-wall distance | Dorsiflexion | What it is enough for |
+|---|---|---|
+| 10 cm / 4 in or more | about 35 to 40 degrees | full-depth squat |
+| 7 to 8 cm / 3 in | about 25 to 30 degrees | squat to parallel, then you tip |
+| 5 cm / 2 in | about 20 degrees | clear restriction |
+
+What you feel at the limit matters as much as the number:
+
+- **A stretch in the calf** means the limit is muscle, mainly the soleus. That responds to the drills below.
+- **A pinch or hard stop at the front of the ankle** with no stretch feeling points at the joint itself. Mobility work helps less here, and a heel lift is simply the long-term setup.
 
 Test both sides. A big difference between left and right is worth fixing on its own.
+
+Checking the angle by hand does not tell you much. Sitting with the leg relaxed, even a normal ankle only goes 10 to 20 degrees past square, because the calf is not loaded and the knee is usually straight. Standing with the knee bent and weight on the foot, the same ankle goes about twice as far. Squats are a bent-knee, loaded movement, so the standing number is the one that counts.
+
+My result: **7 cm**, with a calf stretch at the end. So about 25 to 28 degrees, muscle-limited, and about 3 cm short of where I want to be. That lines up exactly with how my squat behaves: fine until roughly halfway, then the shin stops and I fall back.
 
 ## Step 2: the daily drills
 
@@ -55,7 +66,15 @@ Two things, about five minutes total, every day or at least before squatting.
 
 ### Knee-to-wall rocks
 
-Same position as the test, but instead of holding, rock the knee forward and back. Two sets of 15 per side. Move the foot back an inch each week as it gets easier.
+Same position as the test, done as reps instead of a one-off max:
+
+- Set the foot about **1 cm closer than your max**. For me that is 6 cm. The knee should touch on most reps with some effort, not strain on every one.
+- Drive the knee to the wall, hold one or two seconds, come back. That is one rep.
+- **2 to 3 sets of 10 to 15 per side.** On the last few reps of a set, hold the knee at the wall for 5 to 10 seconds to turn it into a stretch.
+- Heel stays down, knee goes straight at the wall, foot points straight. Same rules as the test, because those are what make the reps count.
+- When every rep touches easily, move the foot back 1 cm.
+
+A dumbbell or plate resting on the knee of the working leg, 5 to 10 kg, pushes the shin forward with less effort and tends to speed things up. Do it warm, daily is fine, and keep the cold max test separate: once every two weeks, find the true distance and write it down.
 
 {{< youtube ElrpduJn92Y >}}
 
@@ -108,9 +127,9 @@ Some coaches argue that for a lot of people the limit is higher up, in the hips,
 
 ## The plan
 
-1. Knee-to-wall test today, both sides, write the numbers down.
-2. Rocks and bent-knee calf stretch daily.
+1. Knee-to-wall test, both sides, written down. Starting point: 7 cm.
+2. Rocks at 6 cm and the bent-knee calf stretch daily.
 3. Keep squatting with the plate.
-4. Retest in three weeks.
+4. Retest every two weeks. Target: 10 cm.
 
 I will update this post with the numbers.
